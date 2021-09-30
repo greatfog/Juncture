@@ -1,5 +1,5 @@
 # Juncture
-<a href="https://juncture-digital.org/greatfog/JUncture"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="https://juncture-digital.org/greatfog/Juncture"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Girl with a Pearl Earring"
