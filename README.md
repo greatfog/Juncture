@@ -20,7 +20,7 @@
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        title="manifest from liblamp"
-       URL="https://liblamp.uwm.edu/IIIF/manifest/manifest1499.json">
+       URL="https://cdm17272.contentdm.oclc.org/iiif/info/march/1499/manifest.json">
 
 
 # Basic usage
