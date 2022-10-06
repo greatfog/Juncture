@@ -36,7 +36,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ## test IIIF from UM 
 Test the IIIF URL/manifest from Madision's Fedora repo.
-<param ve-image fit="cover" manifest="https://digital.library.wisc.edu/1711.dl/4IN3NKG7QO62X8S">
+<param ve-image fit="cover" url=" https://asset.library.wisc.edu/iiif/1711.dl%2F7VKE7JT4PDTDM86/full/full/0/default.jpg">
 
 ## Map
 
