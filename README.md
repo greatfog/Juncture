@@ -34,6 +34,10 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
+## test IIIF from UM 
+Test the IIIF URL/manifest from Madision's Fedora repo.
+<param ve-image fit="cover" manifest="https://search.library.wisc.edu/digital/A4IN3NKG7QO62X8S/full/A7VKE7JT4PDTDM86">
+
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
