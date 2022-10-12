@@ -37,7 +37,8 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 ## Test the IIIF URL/manifest from Madision's Fedora repo
 this is the test using image tag
 <param ve-image fit="cover" url="https://asset.library.wisc.edu/iiif/1711.dl%2F7VKE7JT4PDTDM86/full/full/0/default.jpg">
-
+this is the test using graphic tag
+<param ve-graphic fit="cover" url="https://asset.library.wisc.edu/iiif/1711.dl%2F7VKE7JT4PDTDM86/full/full/0/default.jpg">
 
 ## Map
 
