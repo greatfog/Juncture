@@ -35,7 +35,6 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 ## Test the IIIF URL/manifest from Madision's Fedora repo.
-### USE image. 
 <param ve-image fit="cover" url="https://asset.library.wisc.edu/iiif/1711.dl%2F7VKE7JT4PDTDM86/full/full/0/default.jpg">
 
 
